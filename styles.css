@@ -28,14 +28,6 @@ body {
     padding:1em;
 }
 
-.footer-right {
-    right: 0;
-}
-
-.iframe {
-    font-family: arial;
-}
-
 img {
     width:50vw;
     position:absolute;
